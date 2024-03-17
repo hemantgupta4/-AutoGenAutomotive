@@ -30,7 +30,3 @@ AutoGenAutomotive is an AI-driven automated customer support system designed to 
 
 4. **Email Notification**: Once the analysis and database query are complete, the system sends an email to the user's provided email address, containing detailed information about the damage assessment, spare part availability, and estimated repair costs.
 
-
-## Contact
-
-For any inquiries or feedback, please contact [Your Name](mailto:your@email.com).
